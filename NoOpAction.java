@@ -1,4 +1,4 @@
-package chapter2_agent_Task1; 
+package chapter2_agent_Task2; 
 
 public class NoOpAction extends Action {
 	public static final NoOpAction NO_OP = new NoOpAction();

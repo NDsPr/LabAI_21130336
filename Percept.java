@@ -1,4 +1,4 @@
-package chapter2_agent_Task1; 
+package chapter2_agent_Task2; 
 
 public class Percept {
 	private String agentLocation;
